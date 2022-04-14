@@ -1,4 +1,4 @@
-## Learning-golang-workbook
+## Learning-golang-workbook 🤓 
 
 - This repository is a collection of code snippets documenting the things I learn with golang.
 
